@@ -1,2 +1,2 @@
- minimum: 9
- maximum: 100
+ limits-service.minimum: 9
+ limits-service.maximum: 100
